@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umair Tariq, a third year computer science student at Toronto Metropolitan University.
 - 👀 I’m interested in Software Development, and Programing Languages.
-- 💞️ Laguages I'm interested in include C, Java, Rust, Python, JavaScript, HTML & CSS
+- 💞️ Languages I'm interested in include C, Java, Rust, Python, JavaScript, HTML & CSS
 - 📫 How to reach me umairt1510@gmail.com
 
 <!---
